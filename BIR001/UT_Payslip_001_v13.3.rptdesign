@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
-    <property name="createdBy">Eclipse BIRT Designer Version 4.4.2.3-WDPATCH Build &lt;@BUILD@></property>
+    <property name="createdBy">Eclipse BIRT Designer Version 4.4.2.6-WORKDAY Build &lt;@BUILD@></property>
     <html-property name="description">Payslip and Check/Advice
 - Layout contains the Payslip for the Payroll Result.
 - Blank Master Page, Advice and Check are on Layout with visibility rules
@@ -7829,7 +7829,7 @@ if(row["Payment_Method"]=="Check")
                                                     <property name="marginTop">0pt</property>
                                                     <property name="textAlign">left</property>
                                                     <text-property name="text">P.O. Box 7849, Austin, TX 78713-7849&#13;
-Phone: 512-471-5271   Fax: 512-471-1299</text-property>
+Phone: 512-471-5271   Fax: 512-471-1299 (gus test)</text-property>
                                                 </label>
                                             </cell>
                                             <cell id="3702"/>
